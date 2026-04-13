@@ -62,7 +62,7 @@ useHead({
 
     <h2>Contact</h2>
     <p>
-      Questions about these terms? Reach us at <a href="mailto:hello@fitscroll.app">hello@fitscroll.app</a>.
+      Questions about these terms? Reach us at <a href="mailto:hello@fit-scroll.app">hello@fit-scroll.app</a>.
     </p>
   </LegalLayout>
 </template>

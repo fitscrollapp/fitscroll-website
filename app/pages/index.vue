@@ -154,7 +154,7 @@ const features = [
       <div class="flex gap-6">
         <a href="/privacy" class="hover:text-white transition">Privacy</a>
         <a href="/terms" class="hover:text-white transition">Terms</a>
-        <a href="mailto:hello@fitscroll.app" class="hover:text-white transition">Contact</a>
+        <a href="mailto:hello@fit-scroll.app" class="hover:text-white transition">Contact</a>
       </div>
     </footer>
   </div>
