@@ -16,7 +16,7 @@ defineProps<{
     <!-- Nav -->
     <nav class="max-w-4xl mx-auto px-6 py-6 flex items-center justify-between">
       <NuxtLink to="/" class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-500 to-amber-500 flex items-center justify-center font-black text-lg">F</div>
+        <img src="/logo.png" alt="FitScroll" class="w-10 h-10 rounded-xl" />
         <span class="font-bold text-lg">FitScroll</span>
       </NuxtLink>
       <NuxtLink to="/" class="text-sm text-white/60 hover:text-white transition">← Back</NuxtLink>

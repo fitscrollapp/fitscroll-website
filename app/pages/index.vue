@@ -45,7 +45,7 @@ const features = [
     <!-- Nav -->
     <nav class="max-w-6xl mx-auto px-6 py-6 flex items-center justify-between">
       <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-500 to-amber-500 flex items-center justify-center font-black text-lg">F</div>
+        <img src="/logo.png" alt="FitScroll" class="w-10 h-10 rounded-xl" />
         <span class="font-bold text-lg">FitScroll</span>
       </div>
       <a
