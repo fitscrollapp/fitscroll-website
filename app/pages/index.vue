@@ -49,11 +49,15 @@ const features = [
         <span class="font-bold text-lg">FitScroll</span>
       </div>
       <a
-        href="https://apps.apple.com/app/fitscroll"
-        class="hidden sm:inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-white/10 hover:bg-white/15 border border-white/10 text-sm font-semibold transition"
+        href="https://apps.apple.com/us/app/fitscroll-screen-time-fitness/id6762100402"
+        class="hidden sm:inline-block hover:opacity-90 transition"
+        aria-label="Download on the App Store"
       >
-        Download
-        <Icon name="lucide:arrow-right" class="w-4 h-4" />
+        <img
+          src="/app-store-badge.svg"
+          alt="Download on the App Store"
+          class="h-10 w-auto"
+        />
       </a>
     </nav>
 
@@ -76,13 +80,17 @@ const features = [
 
       <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
         <a
-          href="https://apps.apple.com/app/fitscroll"
-          class="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-gradient-to-r from-brand-500 to-amber-500 font-bold shadow-xl shadow-brand-500/40 hover:scale-105 transition"
+          href="https://apps.apple.com/us/app/fitscroll-screen-time-fitness/id6762100402"
+          class="inline-block hover:scale-105 transition"
+          aria-label="Download on the App Store"
         >
-          <Icon name="lucide:download" class="w-5 h-5" />
-          Download on iOS
+          <img
+            src="/app-store-badge.svg"
+            alt="Download on the App Store"
+            class="h-14 w-auto"
+          />
         </a>
-        <span class="text-sm text-white/50">Free for 7 days · Then from $4.99/mo</span>
+        <span class="text-sm text-white/50">Free for 7 days · Then from $1.99/mo</span>
       </div>
     </section>
 
@@ -139,11 +147,15 @@ const features = [
         <h2 class="text-4xl sm:text-5xl font-black mb-4">Take your time back.</h2>
         <p class="text-white/70 mb-8 max-w-xl mx-auto">Stop trading minutes for scrolls. Start trading them for reps.</p>
         <a
-          href="https://apps.apple.com/app/fitscroll"
-          class="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-gradient-to-r from-brand-500 to-amber-500 font-bold shadow-xl shadow-brand-500/40 hover:scale-105 transition"
+          href="https://apps.apple.com/us/app/fitscroll-screen-time-fitness/id6762100402"
+          class="inline-block hover:scale-105 transition"
+          aria-label="Download on the App Store"
         >
-          <Icon name="lucide:download" class="w-5 h-5" />
-          Download on iOS
+          <img
+            src="/app-store-badge.svg"
+            alt="Download on the App Store"
+            class="h-14 w-auto"
+          />
         </a>
       </div>
     </section>
