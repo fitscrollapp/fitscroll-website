@@ -93,6 +93,13 @@ export default defineNuxtConfig({
     fallback: 'dark',
     classSuffix: '',
   },
+  routeRules: {
+    // Apple requires the AASA file served as application/json for
+    // Universal Links (challenge deep links) to validate.
+    '/.well-known/apple-app-site-association': {
+      headers: { 'content-type': 'application/json' },
+    },
+  },
   tailwindcss: {
     cssPath: '~/assets/css/tailwind.css',
     configPath: 'tailwind.config.ts',
