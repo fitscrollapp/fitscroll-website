@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.huseyinbabal.fitscroll",
+      "sha256_cert_fingerprints": [
+        "B2:AE:7E:45:04:0F:1C:D5:50:EF:C7:3B:46:27:5A:21:94:1C:F9:3B:C7:00:CC:94:BE:9F:31:7F:96:FB:BC:43",
+        "8C:09:1F:A0:CA:7D:61:04:08:7A:CB:F5:6A:15:99:18:E8:5B:CE:0B:A5:DA:E3:8B:BF:52:53:88:78:2A:A9:A8"
+      ]
+    }
+  }
+]
